@@ -1,3 +1,9 @@
+## 🚀 Ejecutar el proyecto
+
+Este proyecto está diseñado para ejecutarse directamente en **Google Colab**, por lo que **no es necesario instalar Python ni ninguna librería** en tu computadora.
+
+Para comenzar, haz clic en el siguiente botón:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/German-rl/Actas_Cualitativas/blob/main/notebooks/Actas_Cualitativas.ipynb)
 
 # 📖 Instrucciones de uso
